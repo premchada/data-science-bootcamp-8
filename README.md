@@ -16,4 +16,4 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Essential Python for Data Analyst
 - Dashboard
 
-  
+  You can find me on LinkedIn https://www.linkedin.com/in/premchada/
