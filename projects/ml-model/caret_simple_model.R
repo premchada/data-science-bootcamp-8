@@ -5,10 +5,10 @@ library(tidyverse)
 # Max Kuhn
 
 # Simple ML pipeline
-# 0. prep data / clean data
-# 1. split data
+# 0. Prep data / clean data
+# 1. Split data
 # 2. train model
-# 3. score model aka. prediction
+# 3. Score model aka. prediction
 # 4. evaluate model
 
 # subset only columns we want
